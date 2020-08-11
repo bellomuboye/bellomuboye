@@ -21,4 +21,4 @@ Resume:  [My Resume](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrda
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I enjoy listening to movies over watching them  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My dream is to become a polymath
 
-![Bel's github stats](https://github-readme-stats.vercel.app/api?username=bellomuboye&count_private=true)
+![Bell's github stats](https://github-readme-stats.vercel.app/api?username=bellomuboye&count_private=true)
