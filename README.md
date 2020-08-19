@@ -4,7 +4,7 @@ Resume:  [My Resume](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrda
 
 🛠️ *Tools*: HTML, CSS, Bootstrap, JavaScript, Joomla, CorelDRAW | Google and Docs
  
-🔭 *Currently working on*:  A MERN Stack Dashboard Project <br>
+🔭 *Currently working on*:  A MERN Stack Dashboard Project and Open Source contributions @layer5 <br>
 
 🌱 *Currently Learning*: React, Vue, MongoDB<br>
 
