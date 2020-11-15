@@ -1,22 +1,31 @@
-### Hi there 👋, I'm Bell Omuboye. I am a Web Developer and Project Manager <br>
+### Hi there 👋, I'm Bell Omuboye.
+
+I am a Web Developer, Project Manager and Accessibility Advocate. I love combining different sources of information to create more efficient solutions so I usually play wear many hats while handling my core duties. *Do send a message if you have a project for me to work on.*<br>
+[My Resume (PDF download)](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrdaDV_Mu9/view?usp=sharing)
+[Twitter: @definebell](https://www.twitter.com/definebell)
+[LinkedIn](https://www.linkedin.com/in/bell-omuboye)
+[Blog](https://www.bellomuboye.hashnode.dev)
+
+
+#### 🌱 Things I am currently working on: 
+- Growing my Accessibility community and knowledge
+- Fullstack web projects with JavaScript, Node and PHP
+- Skirting Preact Documentation 😄
+
+#### 🛠️ Languages and Tools:
+These are the ones I work/have worked with. However I am open to learning new technologies as needed.
+- Semantic HTML, SCSS, JavaScript
+- Node.js, Express, AdonisJS, PHP
+- MongoDB, MySQL, PostgreSQL, Firebase
+- Jest
+- CorelDRAW, Inkscape, Figma
+- WordPress, Joomla
  
-Resume:  [My Resume](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrdaDV_Mu9/view?usp=sharing) (PDF download)
+#### ⚡ Fun facts:
+- I enjoy listening to anime over watching them (even in Japanese) <br>
+- In my past lives, I was a polymath <br>
 
-🛠️ *Tools*: Semantic HTML, SCSS, JavaScript, MERN, PHP, MySQL | Google and Docs
- 
-🔭 *Currently working on*: Fullstack projects with MERN and Preact <br>
 
-🌱 *Currently Learning*: JavaScript ES2020<br>
-
-🤔 *Looking for help*: Remote teams where I can contribute to worthy projects  <br>
-
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](crystalbell.omuboye@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/definebell)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/crystalbell-omuboye-642a2b168/)
- 
-⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I enjoy listening to movies over watching them  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In my past lives, I was a polymath <br>
+🚀 *coming soon* Personal Website
 
 ![Bell's github stats](https://github-readme-stats.vercel.app/api?username=bellomuboye&count_private=true)
