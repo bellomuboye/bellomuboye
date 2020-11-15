@@ -1,16 +1,14 @@
-### Hi there 👋, I'm CrystalBell Omuboye. I am a Web Developer and Project Manager <br>
+### Hi there 👋, I'm Bell Omuboye. I am a Web Developer and Project Manager <br>
  
 Resume:  [My Resume](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrdaDV_Mu9/view?usp=sharing) (PDF download)
 
-🛠️ *Tools*: HTML, CSS, Bootstrap, JavaScript, Joomla, CorelDRAW | Google and Docs
+🛠️ *Tools*: Semantic HTML, SCSS, JavaScript, MERN, PHP, MySQL | Google and Docs
  
-🔭 *Currently working on*:  A MERN Stack Dashboard Project and Open Source contributions @layer5 <br>
+🔭 *Currently working on*: Fullstack projects with MERN and Preact <br>
 
-🌱 *Currently Learning*: React, Vue, MongoDB<br>
+🌱 *Currently Learning*: JavaScript ES2020<br>
 
-🤔 *Looking for help*: I'm looking for help with learning resources and a volunteer/job opportunity that enables one learn on the job <br>
-
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
+🤔 *Looking for help*: Remote teams where I can contribute to worthy projects  <br>
 
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](crystalbell.omuboye@gmail.com)
@@ -19,6 +17,6 @@ Resume:  [My Resume](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrda
  
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I enjoy listening to movies over watching them  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My dream is to become a polymath
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In my past lives, I was a polymath <br>
 
 ![Bell's github stats](https://github-readme-stats.vercel.app/api?username=bellomuboye&count_private=true)
