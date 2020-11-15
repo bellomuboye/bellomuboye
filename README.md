@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Bell Omuboye.
 
 I am a Web Developer, Project Manager and Accessibility Advocate. I love combining different sources of information to create more efficient solutions so I usually play wear many hats while handling my core duties. *Do send a message if you have a project for me to work on.*<br>
-[My Resume (PDF download)](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrdaDV_Mu9/view?usp=sharing)
-[Twitter: @definebell](https://www.twitter.com/definebell)
-[LinkedIn](https://www.linkedin.com/in/bell-omuboye)
+[My Resume (PDF download)](https://drive.google.com/file/d/1zgvSuKYVQCcD2fxLNdbXFsGrdaDV_Mu9/view?usp=sharing) | 
+[Twitter: @definebell](https://www.twitter.com/definebell) | 
+[LinkedIn](https://www.linkedin.com/in/bell-omuboye) | 
 [Blog](https://www.bellomuboye.hashnode.dev)
 
 
