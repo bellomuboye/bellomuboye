@@ -22,7 +22,7 @@ These are the ones I work/have worked with. However I am open to learning new te
 - WordPress, Joomla
  
 #### ⚡ Fun facts:
-- I enjoy listening to anime over watching them (even in Japanese) <br>
+- I can't wait to skate backwards <br>
 - In my past lives, I was a polymath <br>
 
 
